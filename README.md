@@ -1,4 +1,4 @@
-# <a href="https://f0tasks.netlify.app" target="_blank">Scanify App</a>
+# <a href="https://scanifynow.netlify.app/" target="_blank">Scanify App</a>
 
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-yellow)](https://scanifynow.netlify.app/)
 
