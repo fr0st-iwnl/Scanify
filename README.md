@@ -5,9 +5,6 @@
  <p align="justify">This website serves as an online portfolio to showcase my web presence.</p>
  <p>⭐ Star me on Github — it really helps me!</p>
 
-# Website Preview
-* https://scanifynow.netlify.app/
-
 # What is this app for?
  * With Scanify, making QR Codes is simple. Just name your QR Code, and Scanify handles everything. You can also download your QR Code in PNG, JPG, or SVG formats
 
