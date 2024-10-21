@@ -1,11 +1,23 @@
-# <a href="https://scanifynow.netlify.app/" target="_blank">Scanify App</a>
+# 📱 [Scanify - QR Generator](https://scanifynow.netlify.app/) 
 
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-yellow)](https://scanifynow.netlify.app/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://scanifynow.netlify.app/)
 
- <p align="justify">This website serves as an online portfolio to showcase my web presence.</p>
- <p>⭐ Star me on Github — it really helps me!</p>
+<p align="justify">Scanify is a lightweight and user-friendly QR code generator that allows you to create QR codes effortlessly. Share your links, texts, or contacts with ease!</p>
+<p>⭐ Star me on GitHub — it really helps me!</p>
 
-# What is this app for?
- * With Scanify, making QR Codes is simple. Just name your QR Code, and Scanify handles everything. You can also download your QR Code in PNG, JPG, or SVG formats
+### Features
+- 🆕 Generate QR codes for links, texts, and contacts
+- 📱 Responsive design for seamless mobile use
+- ⚡ Fast and efficient code generation
 
-![Scanify App](https://raw.githubusercontent.com/fr0st-iwnl/Scanify/main/Scanify%20QR%20Generator/src/images/qr.png)
+## About the App
+**Scanify** is a simple and efficient QR code generator that makes it easy to create and share QR codes quickly. Perfect for personal and professional use.
+
+<div align="left"><table><tr></tr><tr><td>
+<img src="https://raw.githubusercontent.com/fr0st-iwnl/assets/main/thumbnails/scanify.png"/></tr></table></div>
+
+### Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+### License
+This project is licensed under the [MIT License](LICENSE).
