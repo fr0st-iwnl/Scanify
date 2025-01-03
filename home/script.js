@@ -105,4 +105,7 @@ exit.addEventListener('click',()=>{
 
 
 
-console.log('%c Designed and Developed by fr0st-iwnl ', 'background-image: linear-gradient(90deg,#8000ff,#660066); color: white;font-weight:900;font-size:1rem; padding:20px;');
+const currentYear = new Date().getFullYear();
+    
+    // Set the year in the span with id 'currentYear'
+    document.getElementById("currentYear").textContent = currentYear;
